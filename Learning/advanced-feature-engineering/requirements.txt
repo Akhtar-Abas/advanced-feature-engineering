@@ -1,0 +1,5 @@
+## Technologies
+- Python 3.8+
+- Pandas, NumPy
+- Scikit-learn, XGBoost, LightGBM
+- Jupyter Notebook
