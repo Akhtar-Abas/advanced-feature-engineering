@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+$RECYCLE.BIN/
+System Volume Information/
+*.tmp
+*.log
+../CV/
+../FYP/
+../Education/
+../Daatset/
